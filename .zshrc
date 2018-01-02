@@ -193,5 +193,3 @@ transfer() {
 # svpn snx alias
 alias svpn='snx -s svpn.weizmann.ac.il -u'
 
-
-#checking editing
